@@ -19,6 +19,8 @@ I am excited to showcase my skills and projects as a web developer through this 
 
 To run this project locally, you'll need to have [Node.js](https://nodejs.org/en) and [Git](https://git-scm.com/) installed on your computer. Once you have those installed, follow these steps:
 
+Note - this project made via vite + react so you have to first congfig Vite@react
+
 1. Clone the repository by running `git clone https://github.com/amanjaiman1/portfolio-v1`
 2. Navigate to the project directory by running `cd portfolio-v1`
 3. Install the project dependencies by running `npm install`
